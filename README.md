@@ -29,5 +29,5 @@ checkout
  ### Product Page
 ![Screenshot (2329)](https://user-images.githubusercontent.com/93377379/153642949-c0e2c0a7-b2b7-4f08-91a5-ebdb520c67c4.png)
 
-Checkout Page
+ ### Checkout Page
 ![Screenshot (2331)](https://user-images.githubusercontent.com/93377379/153643038-711440d3-4e3d-4f5b-8dc1-fa97874a91c7.png)
