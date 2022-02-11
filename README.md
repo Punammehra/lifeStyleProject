@@ -10,7 +10,7 @@ Localstorage for Storing data
 # Tools
 VS Code
 Github
-#Functionalities
+# Functionalities
 Signup and Login
 Sort items by there category
 Add items into the cart
